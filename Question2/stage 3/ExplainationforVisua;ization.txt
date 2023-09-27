@@ -1,0 +1,9 @@
+Correlation Heatmap: The relationships between the numerical variables are visually shown by the heatmap. The degree and direction of correlations are shown by color intensity, making it easier to spot patterns like the substantial positive connection between reading and writing scores.
+
+Pie Chart of Average Reading Scores by Gender: The distribution of gender-specific average reading scores is shown in the pie chart. Slices display genders ('male' and 'female') as percentages to make comparisons simple.
+
+Barplot of Parental Education Levels by Test Preparation Course: The parental education levels of pupils who finished test preparation courses and those who didn't are contrasted using bars. These groups are distinct by their colors.
+
+Scatter Plot of Writing vs. Reading Scores: The scatter plot, color-coded by gender, displays the correlation between students' reading and writing scores.
+
+Distribution of Lunch Types:Understanding how common different lunch options are helps to better understand how socioeconomic issues may have an impact on academic performance.
